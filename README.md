@@ -12,3 +12,6 @@
 ## Processing to Circuit Python
 #### In this assignment I had to once again, link Circuit Python to Processing, but this time the graphics in Processing should show the coordinates of my mouse on the screen. Python in this assignment simply read the data from Processing, and accordingly change the postions of the servos to match. The code for this assigment can be found above under the titles of 'processingtocitcutpython' and in the folder called 'processingofprocessingtocitcutpython'. 
 <img src = "media/ProcessingToCircuitPy.PNG" width = 200>
+
+
+###### code for Processing to Circuit Python, as well as all pictures, credited to Imogen Armstrong
