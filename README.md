@@ -3,7 +3,7 @@
 
 ## Hello World
 #### This assignment was based loosly off an episode of The Office, where the entire cast waits during a staff meeting for a box on the TV to fit perfectly into the corner. We had to recreate this, by making a circle bounce around the screen. I learned how to use Processing in order to make graphics and code for them. The code for this assignment can be found above in the folder 'Hello World'. 
-<img src = "Media/BouncingCircle.PNG" width = 400>
+<img src = "Media/BouncingCircle.PNG" width = 300>
 
 ## Circuit Python to Processing 
 #### In this assignment I learned how to connect Circut Python and Processing by creating a 'speedometer' thats hand moved correlating with the direction the potemtionmeter was turned in the Circut Python code. The code for this assignment can be found above under the titles of 'circutpythontoprocessing' and the processing code can be found in the folder called 'proccesingofcircutpythontoprocessing'.
